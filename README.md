@@ -1,8 +1,2 @@
 # rogramminglessons
-# rogramminglessons
-# rogramminglessons
-# rogramminglessons
-# rogramminglessons
-# rogramminglessons
-# rogramminglessons
-# rogramminglessons
+наконечный никита ярославович 904
