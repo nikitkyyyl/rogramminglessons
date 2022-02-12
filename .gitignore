@@ -1,3 +1,4 @@
-node_modules/
-nikos
-
+let one  = 'меня зовут никита';
+let two = ;
+console.log(two)
+node variables.js
